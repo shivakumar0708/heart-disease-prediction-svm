@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated model artifacts (created when notebook is run)
+heart_disease_svm.pkl
+heart_disease_scaler.pkl
+
+# Local/editor files
+.DS_Store
+.vscode/
